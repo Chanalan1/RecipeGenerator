@@ -1,10 +1,4 @@
-# HomeSpice: Smart Recipe Generator
-# GPT API Challenge
-------------------------------
-## Live Deployment
-
-- **Frontend (UI) (Firebase Hosting)**: https://homespice-ae7aa.web.app
-- **Backend (Google Cloud Run)**: https://homespice-api-262419158229.us-central1.run.app
+Smart Recipe Generator
 
 ------------------------------
 ## Run Locally (Developer Environment)
