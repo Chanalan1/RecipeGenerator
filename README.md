@@ -1,4 +1,4 @@
-Smart Recipe Generator
+# Smart Recipe Generator
 
 ------------------------------
 ## Run Locally (Developer Environment)
